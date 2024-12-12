@@ -1,1 +1,1 @@
-### Hi, I'm Mukhriddin Ibragimov <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRhNTVpa3RlbDdvZjhvZDEyMHcwb2o5eXB0dzd3ZjN5dXI5dDYzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8vLgKW80EBxLjRWZw/giphy.webp" width="30px" >
+### Hi, I'm Mukhriddin Ibragimov <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRhNTVpa3RlbDdvZjhvZDEyMHcwb2o5eXB0dzd3ZjN5dXI5dDYzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e8vLgKW80EBxLjRWZw/giphy.webp" style="width:40px; margin-top:30px;" >
